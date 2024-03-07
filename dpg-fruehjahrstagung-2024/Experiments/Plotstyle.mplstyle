@@ -1,0 +1,12 @@
+axes.facecolor : (.2156, .2902, .3255)
+axes.edgecolor : "#FFFFFF"
+xtick.color : "#FFFFFF"
+xtick.labelcolor : "#FFFFFF"
+ytick.color: "#FFFFFF"
+ytick.labelcolor : "#FFFFFF"
+axes.labelcolor : "#FFFFFF"
+
+axes.prop_cycle : cycler(color=["#FA8334", "#7CEAF4", "#EF1A76", "#1effbc", "#DA94FF"])
+figure.facecolor: (.2156, .2902, .3255)
+
+text.color : "#FFFFFF"
