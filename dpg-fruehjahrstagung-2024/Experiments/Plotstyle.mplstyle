@@ -1,4 +1,4 @@
-axes.facecolor : (.2156, .2902, .3255)
+axes.facecolor : "#313131"
 axes.edgecolor : "#FFFFFF"
 xtick.color : "#FFFFFF"
 xtick.labelcolor : "#FFFFFF"
@@ -7,6 +7,6 @@ ytick.labelcolor : "#FFFFFF"
 axes.labelcolor : "#FFFFFF"
 
 axes.prop_cycle : cycler(color=["#FA8334", "#7CEAF4", "#EF1A76", "#1effbc", "#DA94FF"])
-figure.facecolor: (.2156, .2902, .3255)
+figure.facecolor: "#313131"
 
 text.color : "#FFFFFF"
