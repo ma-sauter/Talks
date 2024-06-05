@@ -1,2 +1,2 @@
-This repo is intended for private purposes.
-If you're interested you can check out the Presentations for the talks I've held in the past, but you may have to search for the presentation files inside the subdirectories. Until now, all of them should be .pptx files.
+If you're interested you can check out the Presentations for the talks I've held in the past.
+Since this repo is mainly intended for private use, the subdirectories don't follow a specific organization scheme. If you want to look at the presentation files you have to look for .pptx files in various places.
